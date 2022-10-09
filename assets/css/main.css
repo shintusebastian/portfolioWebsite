@@ -2619,7 +2619,9 @@ input, select, textarea {
 			}
 
 			#banner-wrapper {
-				
+				background-image: url("/images/pic.jpg");
+				height: 50%;
+				width: 100%;
 				
 				padding: 0 15px 0 15px;
 			}
